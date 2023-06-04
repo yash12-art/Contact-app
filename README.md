@@ -11,3 +11,5 @@ Added a library for navigation the screens
 ###### 5 Added a library for contact navigation
 [npm install react-native-contacts --save]()
 ###### 6 In the app i have created a app.js and various more files in screen for different different screen example for adding contact and if i search the contect then the other screen will open
+###### 7 then added one dependency for convert apk in android keystore with protective password
+
